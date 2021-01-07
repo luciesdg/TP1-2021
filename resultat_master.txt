@@ -21,3 +21,22 @@ Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
 Date:   Thu Jan 7 14:08:21 2021 +0100
 
     creation des fichiers
+
+
+
+
+
+
+
+
+
+
+#### git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+
+
